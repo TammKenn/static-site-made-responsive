@@ -62,6 +62,7 @@ header h1 {
 	margin: 0;
 	width: 100%; 
 	padding: 38px 0;
+	border-bottom: 3px solid #77a466;
 }
 
 header h1 span {
@@ -70,7 +71,7 @@ header h1 span {
 
 header nav {
 	
-	padding: 46px 0;
+	padding: 20px 0;
 }
 
 header nav ul {
